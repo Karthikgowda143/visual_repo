@@ -1,0 +1,22 @@
+# ninja log v5
+36	317	7555538715299143	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj	840453beafbc499
+56	1036	7555538722328040	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj	d0ef462174855d75
+13	1056	7555538722576609	CMakeFiles/toggle_led.dir/Core/Src/stm32g0xx_it.c.obj	a1d14d0c1b9b65ae
+71	1069	7555538722384182	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj	c29ae8e9e3a9b8e4
+318	1097	7555538722384182	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj	e3416e3325c518a7
+19	1108	7555538722807030	CMakeFiles/toggle_led.dir/Core/Src/stm32g0xx_hal_msp.c.obj	817f4d07ae5ca4af
+32	1154	7555538722807030	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj	36e9ab0975c0519b
+41	1186	7555538723792661	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj	a20e5ecd1e6d0727
+65	1235	7555538723164286	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj	b1344de444a37613
+24	1407	7555538725450977	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj	52e61341248a5e47
+5	1415	7555538724381985	CMakeFiles/toggle_led.dir/Core/Src/main.c.obj	191b03a1c3c02a7
+1407	1821	7555538729797024	CMakeFiles/toggle_led.dir/startup_stm32g030xx.s.obj	3de86a0d87b348ca
+1038	1937	7555538730921734	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj	5927913682ee706f
+1154	1997	7555538731671190	CMakeFiles/toggle_led.dir/Core/Src/system_stm32g0xx.c.obj	40b08f873bc3bdf9
+1056	2021	7555538732038296	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj	8075db1c5b386613
+1099	2074	7555538732615149	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj	b5c3ba2d9ba38f20
+1070	2082	7555538732615149	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj	f2bc49a3dbdc630c
+1109	2101	7555538733128253	CMakeFiles/toggle_led.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj	4426f9f26a9f2fcb
+1186	2178	7555538733883752	CMakeFiles/toggle_led.dir/Core/Src/sysmem.c.obj	e1bfdc41c4274375
+1236	2650	7555538738670942	CMakeFiles/toggle_led.dir/Core/Src/syscalls.c.obj	3dfed2fb441430c6
+2650	2968	7555538741612633	toggle_led.elf	4494579aff864ab3
